@@ -11,11 +11,11 @@ Errors are logged in to file 'z_log.txt' (When the WAR is deployed Tomcat places
 Project libraries are included in the repo, because the Dynamic web project does not have a system to automatically download libraries.
 
 ## Build Tools
-JDK v1.8
-Eclipse EE 2019-09 (installed with JAVA EE edition)
+JDK v1.8,
+Eclipse EE 2019-09 (installed with JAVA EE edition),
 JBoss Tools (Eclipse plugin)
 
 ## Dependencies
-MySQL
-JAVA v1.8
+MySQL,
+JAVA v1.8,
 Apache-Tomcat v9
